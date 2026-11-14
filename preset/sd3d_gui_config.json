@@ -1,0 +1,16 @@
+{
+  "input_path": "E:/AI Pictures/20261108-Portrait & Landscape Lit Image 3D SBS Conversion Test",
+  "output_mode": "default_new",
+  "output_path": "H:/iw3/Spider-Man",
+  "mode_display": "Orig_Right (Right AI - Default)",
+  "baseline_display": "6",
+  "face_display": "1. None - Original",
+  "seed_display": "1655838429",
+  "output_type_display": "1. Parallel (Default)",
+  "high_res_display": "1536- 3x3 Steps",
+  "steps_display": "16 - Quality+",
+  "gui_always_on_top": false,
+  "show_log": false,
+  "show_preview": true,
+  "show_filelist": true
+}

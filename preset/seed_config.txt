@@ -1,0 +1,13 @@
+1655838429
+983662210
+1750082434
+Random (Default) - different each time=
+42 - reproducible, testing=42
+123 - reproducible, stable=123
+999 - reproducible, high variation=999
+2025 - reproducible, current year=2025
+0 - reproducible, minimal=0
+777 - reproducible, lucky=777
+1234 - reproducible, sequence=1234
+2024 - reproducible, last year=2024
+800 - user favorite=800

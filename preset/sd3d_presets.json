@@ -1,0 +1,20 @@
+{
+  "Default_768_Fast": {
+    "mode": "Orig_Right (Right AI - Default)",
+    "baseline": "3",
+    "face_restore": "1. None - Original",
+    "seed": "1655838429",
+    "output_type": "1. Parallel (Default)",
+    "high_res": "768- 1x1 Steps (Fast)",
+    "steps": "16 - Quality+"
+  },
+  "Good Quality": {
+    "mode": "Orig_Right (Right AI - Default)",
+    "baseline": "6",
+    "face_restore": "1. None - Original",
+    "seed": "1655838429",
+    "output_type": "1. Parallel (Default)",
+    "high_res": "1536- 3x3 Steps",
+    "steps": "16 - Quality+"
+  }
+}
